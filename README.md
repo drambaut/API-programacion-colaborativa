@@ -1,10 +1,10 @@
 1. Desarrollar los siguientes puntos.
-  a. Crear un proyecto en jira.
-  b. Agregar al profesor como miembro del equipo con el correo jhona.mendez@urosario.edu.co.
-  c. Crear tres historias de usuario de acuerdo con un posible problema que podría resolver con
+  1. Crear un proyecto en jira.
+  2. Agregar al profesor como miembro del equipo con el correo jhona.mendez@urosario.edu.co.
+  3. Crear tres historias de usuario de acuerdo con un posible problema que podría resolver con
     una consulta de API.
-  d. Desarrollar la funcionalidad y versionar con git y bitbucket.
-  e. Seleccionar dos compañeros del curso y aportar un issue (historia, bug, tarea) a su proyecto.
-  f. Desarrollar la funcionalidad y versionar con git y bitbucket.
+  4. Desarrollar la funcionalidad y versionar con git y bitbucket.
+  5. Seleccionar dos compañeros del curso y aportar un issue (historia, bug, tarea) a su proyecto.
+  6. Desarrollar la funcionalidad y versionar con git y bitbucket.
 2. Entregar.
-  a. Un documento .pdf con las capturas de pantalla de
+  2. Un documento .pdf con las capturas de pantalla de
